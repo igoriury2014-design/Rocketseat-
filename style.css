@@ -35,7 +35,8 @@ color: var(--text-color);
 
 
 #caixa {
-   width: 360px;
+   width: 100px;
+   max-width: 588px;
     margin: 56px auto 0px auto;
 }
 
